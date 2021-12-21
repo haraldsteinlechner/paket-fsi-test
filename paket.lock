@@ -1,0 +1,6 @@
+NUGET
+  remote: https://api.nuget.org/v3/index.json
+    FSharp.Core (6.0.1) - restriction: >= netstandard2.0
+    FSharp.DependencyManager.Paket (6.2.1)
+      FSharp.Core (>= 5.0) - restriction: >= netstandard2.0
+    Paket (6.2.1)
